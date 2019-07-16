@@ -7,7 +7,7 @@ $(document).ready(function(e){
  return 0;
  }
  else{
- alert('This domain is blocked. Please use another one');
+ alert('Please use a work email.');
  return false;
  }
  });
